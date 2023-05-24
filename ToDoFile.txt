@@ -1,0 +1,4 @@
+homework,1
+wash car,4
+vacuum,2
+wash clothes,5
