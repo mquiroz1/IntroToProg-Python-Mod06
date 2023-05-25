@@ -148,7 +148,7 @@ class IO:
         """
         pass
         # TODO: Add Code Here!
-        task = str(input("Remove which item? - ")).strip()
+        task = str(input("Remove which task? - ")).strip()
         print()  # Add an extra line for looks
         return task
 
